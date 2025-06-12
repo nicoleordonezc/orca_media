@@ -1,0 +1,82 @@
+[
+  {
+    "nombre": "Nicole Ordoñez",
+    "cargo": "Copywriter",
+    "departamento": "Contenido",
+    "email": "nicoleor@orcamedia.com",
+    "horario": "8:00 - 17:00",
+    "clientesAsignados": ["Distribuidor Malayo", "Agroindustrialcenter"]
+  },
+  {
+    "nombre": "Daniel Mejía",
+    "cargo": "Diseñador Gráfico",
+    "departamento": "Diseño",
+    "email": "danielme@orcamedia.com",
+    "horario": "8:00 - 17:00",
+    "clientesAsignados": ["Café Sierra Alta", "GameCampus"]
+  },
+  {
+    "nombre": "Laura Torres",
+    "cargo": "Community Manager",
+    "departamento": "Redes Sociales",
+    "email": "laurato@orcamedia.com",
+    "horario": "8:00 - 17:00",
+    "clientesAsignados": ["PetLife"]
+  },
+  {
+    "nombre": "Carlos Gutiérrez",
+    "cargo": "Desarrollador Web",
+    "departamento": "Desarrollo",
+    "email": "carlosgu@orcamedia.com",
+    "horario": "8:00 - 17:00",
+    "clientesAsignados": ["Aventura Travel", "EcoSolutions"]
+  },
+  {
+    "nombre": "Ana Sofía Díaz",
+    "cargo": "Project Manager",
+    "departamento": "Proyectos",
+    "email": "anadí@orcamedia.com",
+    "horario": "8:00 - 17:00",
+    "clientesAsignados": ["Agroindustrialcenter", "Distribuidor Malayo"]
+  },
+  {
+    "nombre": "Mariana Paredes",
+    "cargo": "Estratega Digital",
+    "departamento": "Estrategia",
+    "email": "marianapa@orcamedia.com",
+    "horario": "8:00 - 17:00",
+    "clientesAsignados": ["Agroindustrialcenter", "Zafiro Boutique"]
+  },
+  {
+    "nombre": "Julián Castillo",
+    "cargo": "Fotógrafo",
+    "departamento": "Producción",
+    "email": "juliánca@orcamedia.com",
+    "horario": "8:00 - 17:00",
+    "clientesAsignados": ["Nutrivida"]
+  },
+  {
+    "nombre": "Valentina Ramos",
+    "cargo": "Ejecutivo de Cuentas",
+    "departamento": "Cuentas",
+    "email": "valentinara@orcamedia.com",
+    "horario": "8:00 - 17:00",
+    "clientesAsignados": ["Arko Ingeniería"]
+  },
+  {
+    "nombre": "Santiago López",
+    "cargo": "SEO Specialist",
+    "departamento": "SEO",
+    "email": "santiagoló@orcamedia.com",
+    "horario": "8:00 - 17:00",
+    "clientesAsignados": ["Palmas del Sur"]
+  },
+  {
+    "nombre": "Camila Herrera",
+    "cargo": "UX/UI Designer",
+    "departamento": "Diseño",
+    "email": "camilahe@orcamedia.com",
+    "horario": "8:00 - 17:00",
+    "clientesAsignados": ["Agroindustrialcenter", "GameCampus"]
+  }
+]

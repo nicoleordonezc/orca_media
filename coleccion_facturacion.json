@@ -1,0 +1,101 @@
+[
+{
+  "clienteId": "684b075b9b959c9b806d07d2",
+  "servicio": "Desarrollo Web",
+  "mesFacturado": "2025-06",
+  "monto": 3004326,
+  "fechaEmisión": { "$date": "2025-06-05T00:00:00.000Z" },
+  "fechaVencimiento": { "$date": "2025-06-22T00:00:00.000Z" },
+  "estadoPago": "pagado",
+  "metodoPago": "efectivo"
+},
+{
+  "clienteId": "684b075b9b959c9b806d07d3",
+  "servicio": "Tienda Online",
+  "mesFacturado": "2025-06",
+  "monto": 1819519,
+  "fechaEmisión": { "$date": "2025-06-04T00:00:00.000Z" },
+  "fechaVencimiento": { "$date": "2025-06-17T00:00:00.000Z" },
+  "estadoPago": "pendiente",
+  "metodoPago": "efectivo"
+},
+{
+  "clienteId": "684b075b9b959c9b806d07d4",
+  "servicio": "Tienda Online",
+  "mesFacturado": "2025-06",
+  "monto": 2941271,
+  "fechaEmisión": { "$date": "2025-06-01T00:00:00.000Z" },
+  "fechaVencimiento": { "$date": "2025-06-20T00:00:00.000Z" },
+  "estadoPago": "pendiente",
+  "metodoPago": "efectivo"
+},
+{
+  "clienteId": "684b075b9b959c9b806d07d5",
+  "servicio": "SEO",
+  "mesFacturado": "2025-06",
+  "monto": 2026961,
+  "fechaEmisión": { "$date": "2025-06-05T00:00:00.000Z" },
+  "fechaVencimiento": { "$date": "2025-06-23T00:00:00.000Z" },
+  "estadoPago": "pagado",
+  "metodoPago": "tarjeta de crédito"
+},
+{
+  "clienteId": "684b075b9b959c9b806d07d6",
+  "servicio": "SEO",
+  "mesFacturado": "2025-06",
+  "monto": 2762074,
+  "fechaEmisión": { "$date": "2025-06-01T00:00:00.000Z" },
+  "fechaVencimiento": { "$date": "2025-06-13T00:00:00.000Z" },
+  "estadoPago": "pendiente",
+  "metodoPago": "tarjeta de crédito"
+},
+{
+  "clienteId": "684b075b9b959c9b806d07d7",
+  "servicio": "Tienda Online",
+  "mesFacturado": "2025-06",
+  "monto": 2149143,
+  "fechaEmisión": { "$date": "2025-06-02T00:00:00.000Z" },
+  "fechaVencimiento": { "$date": "2025-06-19T00:00:00.000Z" },
+  "estadoPago": "pagado",
+  "metodoPago": "tarjeta de crédito"
+},
+{
+  "clienteId": "684b075b9b959c9b806d07d8",
+  "servicio": "Tienda Online",
+  "mesFacturado": "2025-06",
+  "monto": 2141060,
+  "fechaEmisión": { "$date": "2025-06-02T00:00:00.000Z" },
+  "fechaVencimiento": { "$date": "2025-06-15T00:00:00.000Z" },
+  "estadoPago": "pendiente",
+  "metodoPago": "tarjeta de crédito"
+},
+{
+  "clienteId": "684b075b9b959c9b806d07d9",
+  "servicio": "Desarrollo Web",
+  "mesFacturado": "2025-06",
+  "monto": 2117744,
+  "fechaEmisión": { "$date": "2025-06-05T00:00:00.000Z" },
+  "fechaVencimiento": { "$date": "2025-06-22T00:00:00.000Z" },
+  "estadoPago": "pendiente",
+  "metodoPago": "efectivo"
+},
+{
+  "clienteId": "684b075b9b959c9b806d07da",
+  "servicio": "SEO",
+  "mesFacturado": "2025-06",
+  "monto": 1439446,
+  "fechaEmisión": { "$date": "2025-06-03T00:00:00.000Z" },
+  "fechaVencimiento": { "$date": "2025-06-18T00:00:00.000Z" },
+  "estadoPago": "pagado",
+  "metodoPago": "transferencia bancaria"
+},
+{
+  "clienteId": "684b075b9b959c9b806d07db",
+  "servicio": "Desarrollo Web",
+  "mesFacturado": "2025-06",
+  "monto": 1600224,
+  "fechaEmisión": { "$date": "2025-06-03T00:00:00.000Z" },
+  "fechaVencimiento": { "$date": "2025-06-17T00:00:00.000Z" },
+  "estadoPago": "pagado",
+  "metodoPago": "transferencia bancaria"
+}]

@@ -1,0 +1,122 @@
+[
+  {
+    "nombre": "Distribuidor Malayo",
+    "industria": "Agroindustria",
+    "contacto": {
+      "nombre": "Luis Herrera",
+      "email": "luis@distribuidormalayo.com",
+      "teléfono": 3001234567
+    },
+    "serviciosContratados": ["Manejo de Redes Sociales", "Desarrollo Web"],
+    "fechaInicio": "2024-08-15",
+    "estado": "activo"
+  },
+  {
+    "nombre": "Palmas del Sur",
+    "industria": "Palma africana",
+    "contacto": {
+      "nombre": "Andrea Lozano",
+      "email": "andrea@palmasdelsur.co",
+      "teléfono": 3209876543
+    },
+    "serviciosContratados": ["Estrategia Digital"],
+    "fechaInicio": "2024-11-01",
+    "estado": "activo"
+  },
+  {
+    "nombre": "Café Sierra Alta",
+    "industria": "Café",
+    "contacto": {
+      "nombre": "Camilo Ríos",
+      "email": "camilo@cafesierraalta.com",
+      "teléfono": 3186543210
+    },
+    "serviciosContratados": ["Redes Sociales", "Fotografía de producto"],
+    "fechaInicio": "2025-01-10",
+    "estado": "activo"
+  },
+  {
+    "nombre": "Zafiro Boutique",
+    "industria": "Moda",
+    "contacto": {
+      "nombre": "Mónica Reyes",
+      "email": "monica@zafiroboutique.com",
+      "teléfono": 3129988776
+    },
+    "serviciosContratados": ["Fotografía de producto", "Tienda Online", "Gestión de Campañas"],
+    "fechaInicio": "2023-10-05",
+    "estado": "inactivo"
+  },
+  {
+    "nombre": "Arko Ingeniería",
+    "industria": "Ingeniería civil",
+    "contacto": {
+      "nombre": "Juan Carlos Peña",
+      "email": "jc.pena@arkoingenieria.com",
+      "teléfono": 3146655443
+    },
+    "serviciosContratados": ["Desarrollo Web", "Branding"],
+    "fechaInicio": "2024-06-21",
+    "estado": "activo"
+  },
+  {
+    "nombre": "Nutrivida",
+    "industria": "Suplementos alimenticios",
+    "contacto": {
+      "nombre": "Natalia Pardo",
+      "email": "natalia@nutrivida.co",
+      "teléfono": 3113344556
+    },
+    "serviciosContratados": ["Social Ads", "Email Marketing"],
+    "fechaInicio": "2025-02-03",
+    "estado": "activo"
+  },
+  {
+    "nombre": "Aventura Travel",
+    "industria": "Turismo",
+    "contacto": {
+      "nombre": "Carlos Londoño",
+      "email": "carlos@aventuratravel.com",
+      "teléfono": 3012211445
+    },
+    "serviciosContratados": ["Redes Sociales", "Diseño Web", "Fotografía de producto"],
+    "fechaInicio": "2023-11-15",
+    "estado": "activo"
+  },
+  {
+    "nombre": "PetLife",
+    "industria": "Veterinaria y mascotas",
+    "contacto": {
+      "nombre": "Diana Ruiz",
+      "email": "diana@petlife.co",
+      "teléfono": 3157788990
+    },
+    "serviciosContratados": ["Tienda Online", "Redes Sociales", "Consultoría de Marca"],
+    "fechaInicio": "2024-04-08",
+    "estado": "activo"
+  },
+  {
+    "nombre": "EcoSolutions",
+    "industria": "Ambiental",
+    "contacto": {
+      "nombre": "Oscar Medina",
+      "email": "oscar@ecosolutions.org",
+      "teléfono": 3101237890
+    },
+    "serviciosContratados": ["Consultoría de Marca", "Pauta Digital"],
+    "fechaInicio": "2023-09-01",
+    "estado": "inactivo"
+  },
+  {
+    "nombre": "GameCampus",
+    "industria": "Videojuegos educativos",
+    "contacto": {
+      "nombre": "Daniel Restrepo",
+      "email": "daniel@gamecampus.co",
+      "teléfono": 3174567890
+    },
+    "serviciosContratados": ["Desarrollo Web", "Branding", "Contenido"],
+    "fechaInicio": "2024-12-01",
+    "estado": "activo"
+  }
+]

@@ -1,0 +1,114 @@
+[{
+  "clienteId": "684b075b9b959c9b806d07d2",
+  "nombreCampaña": "Lanzamiento nueva línea de machetes",
+  "objetivo": "Aumentar visibilidad en redes",
+  "canales": [
+    "Instagram",
+    "Facebook"
+  ],
+  "fechaInicio": "2024-11-01",
+  "fechaFin": "2024-12-01",
+  "estado": "en ejecución",
+  "total": 2500000
+},
+{
+"clienteId": "684b075b9b959c9b806d07d2",
+"nombreCampaña": "Campaña navideña",
+"objetivo": "Incrementar ventas estacionales",
+"canales": ["Facebook", "YouTube"],
+"fechaInicio": "2024-12-01",
+"fechaFin": "2024-12-31",
+"estado": "pendiente",
+"total": 3000000
+},
+{
+"clienteId": "684b075b9b959c9b806d07d2",
+"nombreCampaña": "Promoción de verano",
+"objetivo": "Generar leads para distribuidores",
+"canales": ["Instagram", "Google Ads"],
+"fechaInicio": "2025-01-10",
+"fechaFin": "2025-02-10",
+"estado": "planeada",
+"total": 1800000
+},
+{
+"clienteId": "684b075b9b959c9b806d07d2",
+"nombreCampaña": "Descuento exclusivo para gatos",
+"objetivo": "Aumentar registros en sitio web",
+"canales": ["Facebook", "WhatsApp"],
+"fechaInicio": "2025-03-01",
+"fechaFin": "2025-03-31",
+"estado": "en ejecución",
+"total": 2200000
+},
+{
+"clienteId": "684b075b9b959c9b806d07d2",
+"nombreCampaña": "Concurso: el mejor proyecto de bricolaje",
+"objetivo": "Fidelización de clientes",
+"canales": ["Instagram", "TikTok"],
+"fechaInicio": "2025-02-15",
+"fechaFin": "2025-03-15",
+"estado": "en ejecución",
+"total": 1500000
+},
+{
+"clienteId": "684b075b9b959c9b806d07d2",
+"nombreCampaña": "Reactivación clientes antiguos",
+"objetivo": "Reactivar cuentas inactivas",
+"canales": ["Email", "Facebook"],
+"fechaInicio": "2025-01-05",
+"fechaFin": "2025-01-25",
+"estado": "finalizada",
+"total": 900000
+},
+{
+"clienteId": "684b075b9b959c9b806d07d2",
+"nombreCampaña": "Black Friday",
+"objetivo": "Impulsar ventas flash",
+"canales": ["Google Ads", "Instagram"],
+"fechaInicio": "2024-11-20",
+"fechaFin": "2024-11-30",
+"estado": "finalizada",
+"total": 2750000
+},
+{
+"clienteId": "684b075b9b959c9b806d07d2",
+"nombreCampaña": "Testimonios de clientes reales",
+"objetivo": "Mejorar percepción de marca",
+"canales": ["YouTube", "Instagram"],
+"fechaInicio": "2025-04-01",
+"fechaFin": "2025-05-01",
+"estado": "planeada",
+"total": 2000000
+},
+{
+"clienteId": "684b075b9b959c9b806d07d2",
+"nombreCampaña": "Expansión a nuevos mercados",
+"objetivo": "Abrir puntos de venta regionales",
+"canales": ["LinkedIn", "Google Ads"],
+"fechaInicio": "2025-02-01",
+"fechaFin": "2025-04-01",
+"estado": "en ejecución",
+"total": 3500000
+},
+{
+"clienteId": "684b075b9b959c9b806d07d2",
+"nombreCampaña": "Campaña Día del Padre",
+"objetivo": "Promocionar combos de herramientas",
+"canales": ["Facebook", "Instagram"],
+"fechaInicio": "2025-06-01",
+"fechaFin": "2025-06-20",
+"estado": "pendiente",
+"total": 1900000
+},
+{
+"clienteId": "684b075b9b959c9b806d07d2",
+"nombreCampaña": "Lanzamiento taladro inalámbrico Pro",
+"objetivo": "Impulsar adopción de nuevo producto",
+"canales": ["Instagram", "YouTube", "Facebook"],
+"fechaInicio": "2025-07-01",
+"fechaFin": "2025-08-01",
+"estado": "planeada",
+"total": 3100000
+}
+]

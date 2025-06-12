@@ -1,0 +1,143 @@
+[
+{
+
+  "campañaId": "64fab123",
+  "tipo": "Post carrusel",
+  "copy": "Descubre las herramientas ideales para tu cosecha 🌴🔧",
+  "plataforma": "Instagram",
+  "fechaProgramada": "2024-11-03",
+  "estatus": "publicado",
+  "diseñadorId": "123",
+  "interacciones": {
+    "likes": 320,
+    "comentarios": 14,
+    "compartidos": 23
+  }
+},
+  {
+    "campañaId": "64fab123002",
+    "tipo": "Video corto",
+    "copy": "¡No te pierdas esta oferta limitada en sierras eléctricas! ⚡🛠️",
+    "plataforma": "Facebook",
+    "fechaProgramada": "2024-11-05",
+    "estatus": "publicado",
+    "diseñadorId": "124",
+    "interacciones": {
+      "likes": 512,
+      "comentarios": 32,
+      "compartidos": 48
+    }
+  },
+  {
+    "campañaId": "64fab123003",
+    "tipo": "Historia",
+    "copy": "Hoy regalamos descuentos en machetes. ¡Desliza hacia arriba! 🔥",
+    "plataforma": "Instagram",
+    "fechaProgramada": "2024-11-07",
+    "estatus": "programado",
+    "diseñadorId": "125",
+    "interacciones": {
+      "likes": 0,
+      "comentarios": 0,
+      "compartidos": 0
+    }
+  },
+  {
+    "campañaId": "64fab123004",
+    "tipo": "Post imagen",
+    "copy": "¿Buscas durabilidad? Nuestras herramientas están hechas para durar 💪",
+    "plataforma": "Facebook",
+    "fechaProgramada": "2024-11-10",
+    "estatus": "pendiente",
+    "diseñadorId": "126",
+    "interacciones": {
+      "likes": 0,
+      "comentarios": 0,
+      "compartidos": 0
+    }
+  },
+  {
+    "campañaId": "64fab123005",
+    "tipo": "Reel",
+    "copy": "El nuevo taladro Pro en acción. ¡Mira lo que puede hacer! 🔩🚀",
+    "plataforma": "Instagram",
+    "fechaProgramada": "2024-11-12",
+    "estatus": "publicado",
+    "diseñadorId": "127",
+    "interacciones": {
+      "likes": 892,
+      "comentarios": 65,
+      "compartidos": 77
+    }
+  },
+  {
+    "campañaId": "64fab123006",
+    "tipo": "Video promocional",
+    "copy": "Llega la nueva línea de herramientas de jardín. Conócela aquí 🌿🔧",
+    "plataforma": "YouTube",
+    "fechaProgramada": "2024-11-14",
+    "estatus": "publicado",
+    "diseñadorId": "128",
+    "interacciones": {
+      "likes": 430,
+      "comentarios": 18,
+      "compartidos": 34
+    }
+  },
+  {
+    "campañaId": "64fab123007",
+    "tipo": "Historia",
+    "copy": "Solo hoy: 25% de descuento en combos de herramientas. ¡Corre! 🏃💥",
+    "plataforma": "Instagram",
+    "fechaProgramada": "2024-11-15",
+    "estatus": "programado",
+    "diseñadorId": "129",
+    "interacciones": {
+      "likes": 0,
+      "comentarios": 0,
+      "compartidos": 0
+    }
+  },
+  {
+    "campañaId": "64fab123008",
+    "tipo": "Post carrusel",
+    "copy": "Conoce los 5 errores comunes al usar herramientas eléctricas ⚠️",
+    "plataforma": "Facebook",
+    "fechaProgramada": "2024-11-18",
+    "estatus": "pendiente",
+    "diseñadorId": "130",
+    "interacciones": {
+      "likes": 0,
+      "comentarios": 0,
+      "compartidos": 0
+    }
+  },
+  {
+    "campañaId": "64fab123009",
+    "tipo": "Post imagen",
+    "copy": "Nuestros clientes opinan: '¡Calidad y potencia en una sola herramienta!' ⭐",
+    "plataforma": "Instagram",
+    "fechaProgramada": "2024-11-20",
+    "estatus": "publicado",
+    "diseñadorId": "131",
+    "interacciones": {
+      "likes": 650,
+      "comentarios": 20,
+      "compartidos": 19
+    }
+  },
+  {
+    "campañaId": "64fab123010",
+    "tipo": "Video corto",
+    "copy": "¿Ya viste cómo funciona nuestra nueva sierra circular? Mira el video 🎥🛠️",
+    "plataforma": "Facebook",
+    "fechaProgramada": "2024-11-22",
+    "estatus": "publicado",
+    "diseñadorId": "132",
+    "interacciones": {
+      "likes": 780,
+      "comentarios": 44,
+      "compartidos": 38
+    }
+  }
+]
